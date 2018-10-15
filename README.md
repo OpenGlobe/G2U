@@ -18,6 +18,8 @@ Improving the government's hiring pipeline.
 ## Readings
 [Moblizing Tech Talent](https://ourpublicservice.org/wp-content/uploads/2018/09/Mobilizing_Tech_Talent-2018.09.26.pdf), from The Partnership for Public Service. 
 
+[Future of work in government](https://www2.deloitte.com/insights/us/en/industry/public-sector/future-of-work-in-government.html), by Deloitte. 
+
 ## Methods for facilitation
 https://methods.18f.gov/
  
